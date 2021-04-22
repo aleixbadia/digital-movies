@@ -3,6 +3,6 @@
 ## Description
 
 ## MVP
-Project 2 for IronHack Barcelona
+Best project ever
 
 ## User Stories
